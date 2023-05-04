@@ -19,9 +19,10 @@
                 </ul>
 
 
-                <form action="login.php" class="d-flex" role="search">
-                    <input class="form-control me-2" type="search" placeholder="E-mail" aria-label="E-mail">
-                    <input class="form-control me-2" type="search" placeholder="Senha" preg_replace="Senha">
+                <form action="login.php" class="d-flex" role="search" method="post">
+                    <input class="form-control me-2" type="email" placeholder="E-mail" aria-label="E-mail" name="email"
+                    id="emai">
+                    <input class="form-control me-2" type="senha" placeholder="Senha" preg_replace="Senha" name="senha" id="senha">
 
 
                     <button class="btn btn-outline-success me-2" type="submit">Entrar</button>
