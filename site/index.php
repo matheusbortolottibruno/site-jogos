@@ -1,6 +1,7 @@
 <?php
+include "cabecalho.php";
 include "menu.php";
-include "cabecalho.php"
+
 ?>
 
 <div class="container-fluid banner">
