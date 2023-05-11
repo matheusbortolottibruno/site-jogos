@@ -8,13 +8,13 @@ include "menu.php";
   <div id="carouselExample" class="carousel slide carousel-fade">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="img/foto9.png" class="d-block w-100" alt="...">
+        <img src="img/foto3.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
         <img src="img/foto4.png" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="img/foto3.jpg" class="d-block w-100" alt="...">
+        <img src="img/foto.webp" class="d-block w-100" alt="...">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
